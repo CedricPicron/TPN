@@ -1,2 +1,2 @@
-# TPN
-Trident Pyramid Networks for Object Detection (BMVC 2022)
+# Trident Pyramid Networks for Object Detection
+Code coming soon.
